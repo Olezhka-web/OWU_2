@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 10vh;
+    color: white;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslateblue;
+    height: 10vh;
+    color: white;
+}
+.container{
+    display: flex;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    width: 70%;
+    height: 70vh;
+    color: white;
+}
+.aside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+    width: 30%;
+    color: white;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+    width: 100%;
+    height: 10vh;
+    color: white;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header__title{
+    text-align: center;
+    color: yellow;
+    background-color: blue;
+    padding: 15px 0;
+    margin-bottom: 10px;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.image-Marge, .image-Homer{
+    width: 300px;
+    height: 400px;
+}
+
+li{
+    margin-bottom: 10px;
+}
